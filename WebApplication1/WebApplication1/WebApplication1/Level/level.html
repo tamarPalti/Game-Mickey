@@ -1,0 +1,84 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <link href="level.css" rel="stylesheet" />
+    <title></title>
+    <script>
+  
+        function main() {
+            //var body = document.getElementById('all');
+            //if (body.requestFullscreen) {
+            //    body.requestFullscreen();
+            //} else if (body.msRequestFullscreen) {
+            //    body.msRequestFullscreen();
+            //} else if (body.mozRequestFullScreen) {
+            //    body.mozRequestFullScreen();
+            //} else if (body.webkitRequestFullscreen) {
+            //    body.webkitRequestFullscreen();
+            //}
+            //else console.log('ooof');
+            var level = parseInt(localStorage.getItem('maxLevel'));
+            var levelsList = document.getElementsByClassName('level');
+            var levelIsList1 = document.getElementsByClassName('imgClose');
+            var levelIsList2 = document.getElementsByClassName('imgOpen');
+            for (var i = 1; i < level; i++)
+            {
+                 levelsList[i].classList.remove('disabled');
+                 levelsList[i].children[0].href = "../game/game.html";
+                 levelsList[i].classList.add('box-shadow');
+                     levelIsList1[i].classList.remove('imgKey1');
+                     levelIsList2[i].classList.remove('imgkey3');
+                         
+            }
+            var iframe = document.createElement("iframe")
+            iframe.src = "../saund/soundbakground.mp3";
+            document.body.appendChild(iframe);
+        }
+        
+        function updateLocalStorage(level)
+        {
+            localStorage.setItem('level', level);
+            console.log('levels page. going to level: ' + level);
+        }
+    </script>
+    
+</head>
+<body onload="main();">
+    <div id="all">
+      <div id="level">
+          <div class="level box-shadow">
+              <a onclick="updateLocalStorage(1)" href="../game/game.html" class="levelid ">level 1</a>
+              <img src="../מיקי/תמונות למשחק/אייקון מפתח (2).PNG" class="imgClose imgKey  " />
+              <img src="../מיקי/תמונות למשחק/מנעול (3).PNG"class="imgOpen imgkey2"  />
+          </div>
+          <div class="level disabled">
+              <a onclick="updateLocalStorage(2)" href="" class="levelid">level 2</a>
+              <img src="../מיקי/תמונות למשחק/אייקון מפתח (2).PNG" class="imgClose imgKey imgKey1 " />
+              <img src="../מיקי/תמונות למשחק/מנעול (3).PNG"class="imgOpen imgkey2 imgkey3" />
+          </div>
+          <div class="level disabled">
+              <a onclick="updateLocalStorage(3)" href="" class="levelid">level 3</a>
+              <img src="../מיקי/תמונות למשחק/אייקון מפתח (2).PNG" class="imgClose imgKey imgKey1 " />
+              <img src="../מיקי/תמונות למשחק/מנעול (3).PNG"class="imgOpen imgkey2 imgkey3" />
+          </div>
+          <div class="level disabled">
+              <a onclick="updateLocalStorage(4)" href="" class="levelid">level 4</a>
+              <img src="../מיקי/תמונות למשחק/אייקון מפתח (2).PNG" class="imgClose imgKey imgKey1" />
+              <img src="../מיקי/תמונות למשחק/מנעול (3).PNG"class="imgOpen imgkey2 imgkey3" />
+          </div>
+          <div id="level5" class="level disabled">
+              <a onclick="updateLocalStorage(5)" href="" class="levelid">level 5</a>
+              <img src="../מיקי/תמונות למשחק/אייקון מפתח (2).PNG" class="imgClose imgKey imgKey1" />
+              <img src="../מיקי/תמונות למשחק/מנעול (3).PNG"class="imgOpen imgkey2 imgkey3" />
+          </div>
+        </div>
+        <a href="../games/games.html"> b
+            <img src="../מיקי/תמונות למשחק/שמאלה.png" id="icon" class="chetz" />
+        </a>
+    </div>
+    <!--<audio loop="loop" autoplay="autoplay">
+        <source src="../saund/soundbakground.mp3" type="audio/mpeg" />
+    </audio>-->
+</body>
+</html>

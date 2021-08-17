@@ -1,0 +1,141 @@
+﻿body {
+    /*background-image: url('מיקי/תמונות למשחק/דיסני12 (2).PNG');*/
+    background-image: url('../מיקי/תמונות למשחק/‏‏רקע אפור (2).PNG');
+    background-size: cover;
+    /*opacity: 0.6;*/
+    overflow: hidden;
+    cursor: url(../מיקי1.PNG),auto;
+}
+@font-face {
+    font-family: 'trashimclm-bold-webfont';
+    src: url('../מיקי/font/trashimclm-bold-webfont.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'NewWaltDisneyUi-8YdA';
+    src: url('../מיקי/font/NewWaltDisneyUi-8YdA.ttf') format('truetype');
+}
+.games {
+    color: #302d2d;
+    font-size: 12vw;
+    position: absolute;
+    left: 32vw;
+    top: -15vh;
+    font-family: /*'Guttman Yad'*/ 'NewWaltDisneyUi-8YdA';
+    color: #302d2d;
+    text-shadow: 0 0 35px;
+}
+
+#all{
+   width:100vw;
+   height:100vh;
+}
+.game {
+    width: 30vw;
+    height: 40vh;
+    margin-left: 11vw;
+    display: inline-block;
+    margin-top: 45vh;
+  
+}
+.img_game {
+    width: 35vw;
+    height: auto;
+    color: grey;
+    box-shadow: 0px 0px 90px 14px;
+}
+    .img_game:hover {
+        animation-name: mov_img;
+        animation-duration: 1s;
+        animation-iteration-count: 1;
+        animation-fill-mode: forwards;
+        height: auto;
+        transition: width, height;
+    }
+@keyframes mov_img {
+
+
+    25% {
+        width: 35vw;
+        height: auto;
+    }
+
+    100% {
+        width: 40vw;
+        height: auto;
+    }
+}
+
+a{
+    text-decoration:none;
+}
+#icon {
+    position: absolute;
+    top: 85vh;
+    left: 5vw;
+    width: 5vw;
+    height: auto;
+}
+
+.chetz:hover {
+    animation-name: move_chetz;
+    animation-duration: 1s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes move_chetz {
+    25% {
+        width: 5vw;
+        height: auto;
+    }
+
+    100% {
+        width: 6vw;
+        height: auto;
+    }
+}
+#img_way {
+    width: 5vw;
+    position: absolute;
+    left: 94vw;
+}
+
+#div_way {
+    width: 19vw;
+    height: 26vh;
+    background-color: white;
+    position: absolute;
+    bottom: 72vh;
+    opacity: 0.4;
+    right: 7vw;
+}
+
+    #div_way p {
+        position: absolute;
+        font-family: 'trashimclm-bold-webfont';
+        font-size: 2.2vw;
+        top: 1vh;
+        text-align: center;
+        left: 1.6vw;
+    }
+
+.none {
+    display: none;
+}
+
+.img_way {
+    width: 7vw;
+    display: inline-block;
+    top: -2vh;
+    margin-top: 14vh;
+    margin-right: 1vw;
+    position: relative;
+    right: -1.8vw;
+}
+
+#x {
+    position: absolute;
+    right: 22.9vw;
+    top: 2vh;
+    margin-bottom: 19vh;
+    z-index: 100;
+}

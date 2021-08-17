@@ -1,0 +1,442 @@
+I:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+I:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\WebApplication1.dll
+I:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+I:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+I:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+I:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+I:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+I:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+I:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+I:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+I:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+I:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+I:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+I:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+I:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+I:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+I:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Console.dll
+I:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+I:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+I:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+I:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+I:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+I:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+I:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+I:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+I:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+I:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Security.Claims.dll
+I:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+I:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+I:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+I:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+I:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+I:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+I:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+I:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+I:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+I:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+I:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+I:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+I:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+I:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+I:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+I:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+I:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\משחק\WebApplication1\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+I:\משחק\WebApplication1\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+I:\משחק\WebApplication1\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+I:\משחק\WebApplication1\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+I:\משחק\WebApplication1\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+G:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+G:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\WebApplication1.dll
+G:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+G:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+G:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+G:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+G:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+G:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+G:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+G:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+G:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+G:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+G:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Console.dll
+G:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+G:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+G:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+G:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+G:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+G:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Security.Claims.dll
+G:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+G:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+G:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+G:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+G:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+G:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+G:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+G:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+G:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+G:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\משחק\WebApplication1\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\משחק\WebApplication1\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+G:\משחק\WebApplication1\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+G:\משחק\WebApplication1\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\WebApplication1.dll
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Console.dll
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Security.Claims.dll
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+I:\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+I:\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\WebApplication1.dll
+I:\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+I:\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+I:\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+I:\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+I:\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+I:\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+I:\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+I:\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+I:\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+I:\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+I:\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+I:\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+I:\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+I:\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+I:\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Console.dll
+I:\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+I:\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+I:\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+I:\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+I:\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+I:\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+I:\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+I:\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+I:\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+I:\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Security.Claims.dll
+I:\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+I:\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+I:\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+I:\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+I:\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+I:\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+I:\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+I:\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+I:\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+I:\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+I:\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+I:\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+I:\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+I:\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+I:\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+I:\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+I:\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+I:\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+I:\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+I:\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+I:\פרויקט\משחק\WebApplication1\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+I:\WEb\משחק\WebApplication1\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+I:\WEb\משחק\WebApplication1\WebApplication1\WebApplication1\bin\WebApplication1.dll
+I:\WEb\משחק\WebApplication1\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+I:\WEb\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+I:\WEb\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+I:\WEb\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+I:\WEb\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+I:\WEb\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+I:\WEb\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+I:\WEb\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\WEb\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\WEb\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+I:\WEb\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\WEb\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+I:\WEb\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\WEb\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\WEb\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+I:\WEb\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+I:\WEb\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+I:\WEb\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\WEb\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+I:\WEb\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+I:\WEb\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Console.dll
+I:\WEb\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+I:\WEb\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+I:\WEb\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+I:\WEb\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+I:\WEb\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+I:\WEb\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+I:\WEb\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+I:\WEb\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+I:\WEb\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+I:\WEb\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Security.Claims.dll
+I:\WEb\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+I:\WEb\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+I:\WEb\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+I:\WEb\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+I:\WEb\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+I:\WEb\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+I:\WEb\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+I:\WEb\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+I:\WEb\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+I:\WEb\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+I:\WEb\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+I:\WEb\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+I:\WEb\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+I:\WEb\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+I:\WEb\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+I:\WEb\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+I:\WEb\משחק\WebApplication1\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\WEb\משחק\WebApplication1\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\WEb\משחק\WebApplication1\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+I:\WEb\משחק\WebApplication1\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+I:\WEb\משחק\WebApplication1\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+I:\WEb\משחק\WebApplication1\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+I:\WEb\משחק\WebApplication1\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\Users\user1\Desktop\משחק\WebApplication1\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+D:\Users\user1\Desktop\משחק\WebApplication1\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\Users\user1\Desktop\משחק\WebApplication1\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\Users\user1\Desktop\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+D:\Users\user1\Desktop\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+D:\Users\user1\Desktop\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+D:\Users\user1\Desktop\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+D:\Users\user1\Desktop\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+D:\Users\user1\Desktop\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+D:\Users\user1\Desktop\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Users\user1\Desktop\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Users\user1\Desktop\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Users\user1\Desktop\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Users\user1\Desktop\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Users\user1\Desktop\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Users\user1\Desktop\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Users\user1\Desktop\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Users\user1\Desktop\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Users\user1\Desktop\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Users\user1\Desktop\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Users\user1\Desktop\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+D:\Users\user1\Desktop\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\Users\user1\Desktop\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Console.dll
+D:\Users\user1\Desktop\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Users\user1\Desktop\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Users\user1\Desktop\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+D:\Users\user1\Desktop\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+D:\Users\user1\Desktop\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Users\user1\Desktop\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Users\user1\Desktop\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+D:\Users\user1\Desktop\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\Users\user1\Desktop\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+D:\Users\user1\Desktop\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Security.Claims.dll
+D:\Users\user1\Desktop\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Users\user1\Desktop\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Users\user1\Desktop\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Users\user1\Desktop\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Users\user1\Desktop\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Users\user1\Desktop\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Users\user1\Desktop\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+D:\Users\user1\Desktop\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Users\user1\Desktop\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Users\user1\Desktop\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+D:\Users\user1\Desktop\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Users\user1\Desktop\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+D:\Users\user1\Desktop\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+D:\Users\user1\Desktop\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+D:\Users\user1\Desktop\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\Users\user1\Desktop\משחק\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\Users\user1\Desktop\משחק\WebApplication1\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Users\user1\Desktop\משחק\WebApplication1\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Users\user1\Desktop\משחק\WebApplication1\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+D:\Users\user1\Desktop\משחק\WebApplication1\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+D:\Users\user1\Desktop\משחק\WebApplication1\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+D:\Users\user1\Desktop\משחק\WebApplication1\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\Users\user1\Desktop\משחק\WebApplication1\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\משחק 1\WebApplication1\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\משחק 1\WebApplication1\WebApplication1\WebApplication1\bin\WebApplication1.dll
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\משחק 1\WebApplication1\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\משחק 1\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\משחק 1\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\משחק 1\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\משחק 1\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\משחק 1\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\משחק 1\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\משחק 1\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\משחק 1\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\משחק 1\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\משחק 1\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\משחק 1\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\משחק 1\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\משחק 1\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\משחק 1\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\משחק 1\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\משחק 1\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\משחק 1\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\משחק 1\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\משחק 1\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\משחק 1\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Console.dll
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\משחק 1\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\משחק 1\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\משחק 1\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\משחק 1\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\משחק 1\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\משחק 1\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\משחק 1\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\משחק 1\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\משחק 1\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\משחק 1\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Security.Claims.dll
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\משחק 1\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\משחק 1\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\משחק 1\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\משחק 1\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\משחק 1\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\משחק 1\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\משחק 1\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\משחק 1\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\משחק 1\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\משחק 1\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\משחק 1\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\משחק 1\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\משחק 1\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\משחק 1\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\משחק 1\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\משחק 1\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\משחק 1\WebApplication1\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\משחק 1\WebApplication1\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\משחק 1\WebApplication1\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\משחק 1\WebApplication1\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+W:\כתות ה\הנדסת תוכנה\תמר\WEb\java script1\משחק 1\WebApplication1\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\תכנות\שעורי בית\שנה א\תמר\WEb\המשחק המושלם\WebApplication1\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+D:\תכנות\שעורי בית\שנה א\תמר\WEb\המשחק המושלם\WebApplication1\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\תכנות\שעורי בית\שנה א\תמר\WEb\המשחק המושלם\WebApplication1\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\תכנות\שעורי בית\שנה א\תמר\WEb\המשחק המושלם\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+D:\תכנות\שעורי בית\שנה א\תמר\WEb\המשחק המושלם\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+D:\תכנות\שעורי בית\שנה א\תמר\WEb\המשחק המושלם\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+D:\תכנות\שעורי בית\שנה א\תמר\WEb\המשחק המושלם\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+D:\תכנות\שעורי בית\שנה א\תמר\WEb\המשחק המושלם\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+D:\תכנות\שעורי בית\שנה א\תמר\WEb\המשחק המושלם\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+D:\תכנות\שעורי בית\שנה א\תמר\WEb\המשחק המושלם\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\תכנות\שעורי בית\שנה א\תמר\WEb\המשחק המושלם\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\תכנות\שעורי בית\שנה א\תמר\WEb\המשחק המושלם\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\תכנות\שעורי בית\שנה א\תמר\WEb\המשחק המושלם\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\תכנות\שעורי בית\שנה א\תמר\WEb\המשחק המושלם\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\תכנות\שעורי בית\שנה א\תמר\WEb\המשחק המושלם\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\תכנות\שעורי בית\שנה א\תמר\WEb\המשחק המושלם\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\תכנות\שעורי בית\שנה א\תמר\WEb\המשחק המושלם\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\תכנות\שעורי בית\שנה א\תמר\WEb\המשחק המושלם\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\תכנות\שעורי בית\שנה א\תמר\WEb\המשחק המושלם\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\תכנות\שעורי בית\שנה א\תמר\WEb\המשחק המושלם\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\תכנות\שעורי בית\שנה א\תמר\WEb\המשחק המושלם\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+D:\תכנות\שעורי בית\שנה א\תמר\WEb\המשחק המושלם\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\תכנות\שעורי בית\שנה א\תמר\WEb\המשחק המושלם\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Console.dll
+D:\תכנות\שעורי בית\שנה א\תמר\WEb\המשחק המושלם\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\תכנות\שעורי בית\שנה א\תמר\WEb\המשחק המושלם\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\תכנות\שעורי בית\שנה א\תמר\WEb\המשחק המושלם\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+D:\תכנות\שעורי בית\שנה א\תמר\WEb\המשחק המושלם\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+D:\תכנות\שעורי בית\שנה א\תמר\WEb\המשחק המושלם\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\תכנות\שעורי בית\שנה א\תמר\WEb\המשחק המושלם\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\תכנות\שעורי בית\שנה א\תמר\WEb\המשחק המושלם\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+D:\תכנות\שעורי בית\שנה א\תמר\WEb\המשחק המושלם\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\תכנות\שעורי בית\שנה א\תמר\WEb\המשחק המושלם\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+D:\תכנות\שעורי בית\שנה א\תמר\WEb\המשחק המושלם\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Security.Claims.dll
+D:\תכנות\שעורי בית\שנה א\תמר\WEb\המשחק המושלם\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\תכנות\שעורי בית\שנה א\תמר\WEb\המשחק המושלם\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\תכנות\שעורי בית\שנה א\תמר\WEb\המשחק המושלם\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\תכנות\שעורי בית\שנה א\תמר\WEb\המשחק המושלם\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\תכנות\שעורי בית\שנה א\תמר\WEb\המשחק המושלם\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+D:\תכנות\שעורי בית\שנה א\תמר\WEb\המשחק המושלם\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\תכנות\שעורי בית\שנה א\תמר\WEb\המשחק המושלם\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+D:\תכנות\שעורי בית\שנה א\תמר\WEb\המשחק המושלם\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\תכנות\שעורי בית\שנה א\תמר\WEb\המשחק המושלם\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\תכנות\שעורי בית\שנה א\תמר\WEb\המשחק המושלם\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+D:\תכנות\שעורי בית\שנה א\תמר\WEb\המשחק המושלם\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\תכנות\שעורי בית\שנה א\תמר\WEb\המשחק המושלם\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+D:\תכנות\שעורי בית\שנה א\תמר\WEb\המשחק המושלם\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+D:\תכנות\שעורי בית\שנה א\תמר\WEb\המשחק המושלם\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+D:\תכנות\שעורי בית\שנה א\תמר\WEb\המשחק המושלם\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\תכנות\שעורי בית\שנה א\תמר\WEb\המשחק המושלם\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\תכנות\שעורי בית\שנה א\תמר\WEb\המשחק המושלם\WebApplication1\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\תכנות\שעורי בית\שנה א\תמר\WEb\המשחק המושלם\WebApplication1\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\תכנות\שעורי בית\שנה א\תמר\WEb\המשחק המושלם\WebApplication1\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+D:\תכנות\שעורי בית\שנה א\תמר\WEb\המשחק המושלם\WebApplication1\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+D:\תכנות\שעורי בית\שנה א\תמר\WEb\המשחק המושלם\WebApplication1\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+D:\תכנות\שעורי בית\שנה א\תמר\WEb\המשחק המושלם\WebApplication1\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\תכנות\שעורי בית\שנה א\תמר\WEb\המשחק המושלם\WebApplication1\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb

@@ -1,0 +1,104 @@
+﻿body {
+    background-image: url('../מיקי/תמונות למשחק/armon_mini.png');
+    background-size: cover;
+    overflow: hidden;
+    cursor:url(../מיקי1.PNG,auto);
+}
+@font-face {
+    font-family: 'NewWaltDisneyUi-8YdA';
+    src: url('../מיקי/font/NewWaltDisneyUi-8YdA.ttf') format('truetype');
+}
+.level
+{
+    width:15vw;
+    height:20vh;
+    background-color:white;
+    opacity:0.6;
+    margin-left:3vw;
+    display:inline-block;
+    margin-top:10vh;
+}
+#level5
+{
+    margin-left:13vw;
+}
+#level {
+    width: 40vw;
+    height: 100vh;
+    position: relative;
+    left: 27vw;
+    font-family: 'NewWaltDisneyUi-8YdA';
+    font-size: 3vw;
+    /*text-align: center;*/  
+}
+#all{
+    width:100vw;
+    height:100vh;
+}
+.disabled {
+    background-color:dimgray;
+}
+a {
+    text-decoration: none;
+}
+.levelid {
+    color:lightskyblue !important;
+    position:relative;
+    top:1.5vh;
+    left:5vh;
+}
+.imgKey {
+    position: relative;
+    left: 5vw;
+    top:1vh;
+    display:none;
+}
+.imgKey1 {
+    position:relative;
+    left: 5vw;
+    top: 1vh;
+    display:block;
+}
+.imgkey2 {
+    position: relative;
+    left: 5vw;
+    top: 0vh;
+    width: 4.2vw;
+    height: auto;
+    display: block;
+}
+.imgkey3 {
+    position: relative;
+    left: 5vw;
+    top: 0vh;
+    width: 4.2vw;
+    height: auto;
+    display: none;
+}
+#icon {
+    position: absolute;
+    top: 82vh;
+    left: 5vw;
+    width: 5vw;
+    height: auto;
+}
+
+.chetz:hover {
+    animation-name: move_chetz;
+    animation-duration: 1s;
+}
+
+@keyframes move_chetz {
+    25% {
+        width: 5vw;
+        height: auto;
+    }
+
+    100% {
+        width: 6vw;
+        height: auto;
+    }
+}
+.box-shadow {
+    box-shadow: 0 0 35px 10px;
+}

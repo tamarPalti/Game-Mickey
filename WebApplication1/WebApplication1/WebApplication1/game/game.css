@@ -1,0 +1,226 @@
+﻿body {
+    background-image: url('../מיקי/תמונות למשחק/‏‏unnamed (5) - עותק.png');
+    background-size: cover;
+    /*position:absolute;*/
+    /*width: 100vw;
+    height: 100vh;*/
+    overflow: hidden;
+    cursor:url('../מיקי/תמונות למשחק/3.gif'), auto;  
+}
+* 
+{
+    vertical-align: top;
+}
+
+@font-face {
+    font-family: 'NewWaltDisneyUi-8YdA';
+    src: url('../מיקי/font/NewWaltDisneyUi-8YdA.ttf') format('truetype');
+}
+.img_doll 
+{
+    width: 8vw;
+    height: auto;
+    position: absolute;
+    opacity: 0.80;
+}
+.img_doll_grey {
+    width: 2vw;
+    height: auto;
+    position: absolute;
+    opacity: 0.80;
+}
+.doll_noun {
+display: none;
+}
+.dice_pink {
+    width: 2vw;
+    height: 2vw;
+    background-color: pink;
+    position: absolute;
+    display: inline-block;
+    border-collapse: collapse;
+    border-radius: 7px;
+}
+
+.dice_grey {
+    width: 2vw;
+    height: 2vw;
+    background-color: grey;
+    position: absolute;
+    display: inline-block;
+    border-collapse: collapse;
+    border-radius: 7px;
+}
+
+#img_reka {
+    width: 100vw;
+    height: 100vh;
+    opacity:0.80;
+    position: absolute;
+}
+
+#all {
+    width: 100vw;
+    height: 100vh;
+}
+
+/*.noneEnd {
+}
+
+/*.none_start {
+    display: none;
+}*/
+
+.img_game_over {
+    position: absolute;
+    width: auto;
+    height: 50vh;
+    opacity: 0.8;
+    left: 31vw;
+    top: 9vh;
+}
+.img_game_winer {
+    position: absolute;
+    width: auto;
+    height: 60vh;
+    opacity: 0.8;
+    left: 29vw;
+    top: -3.1vh;
+}
+
+.again {
+    width: 13vw;
+    height: 8vh;
+    background-color: gray;
+    position: absolute;
+    border-collapse: collapse;
+    border-radius: 3vw;
+    left: 49vw;
+    top: 77vh;
+    opacity: 0.8;
+    color: pink;
+    font-size: 2vw;
+    font-family: 'NewWaltDisneyUi-8YdA';
+    text-align: center;
+    box-shadow: 0 0 25px;
+}
+.exit {
+    width: 13vw;
+    height: 8vh;
+    background-color: gray;
+    position: absolute;
+    border-collapse: collapse;
+    border-radius: 3vw;
+    left: 33vw;
+    top: 77vh;
+    opacity: 0.8;
+    color: pink;
+    font-size: 2vw;
+    font-family: 'NewWaltDisneyUi-8YdA';
+    text-align: center;
+    box-shadow: 0 0 25px;
+}
+.continua {
+    width: 13vw;
+    height: 8vh;
+    background-color: gray;
+    position: absolute;
+    border-collapse: collapse;
+    border-radius: 3vw;
+    left: 49vw;
+    top: 77vh;
+    opacity: 0.8;
+    color: pink;
+    font-size: 2vw;
+    font-family: 'NewWaltDisneyUi-8YdA';
+    text-align: center;
+    box-shadow: 0 0 25px;
+}
+.exit:hover {
+    color: gray;
+    background-color: pink;
+}
+.again:hover {
+    color: gray;
+    background-color: pink;
+}
+.continua:hover {
+    color: gray;
+    background-color: pink;
+}
+.Point {
+    position: absolute;
+    color: dimgrey;
+    font-size: 2vw;
+    left: 10vw;
+    top: 1.8vh;
+    font-family: 'NewWaltDisneyUi-8YdA';
+    z-index: 100;
+    text-align: center;
+}
+.Hart {
+    font-family: 'NewWaltDisneyUi-8YdA';
+    position: absolute;
+    z-index: 100;
+    color: dimgrey;
+    font-size: 2vw;
+    left: 19vw;
+    top: 1.3vh;
+    /*font-family:;*/
+    text-align: center;
+}
+.img_hart 
+{
+    position: absolute;
+    z-index: 100;
+    width: 2vw;
+    height: auto;
+    left: 17vw;
+    top:2vh;
+}
+.img_point 
+{
+    position: absolute;
+    z-index: 100;
+    width: 2vw;
+    height: auto;
+    left: 8vw;
+    top: 2vh;
+}
+.div_point {
+    position: absolute;
+    width:40vw;
+    height:10vh;
+    /*text-align: center;*/
+    font-size: 3.3vw;
+    left: 41.5vw;
+    top:61vh;
+    color: gray;
+    font-family: 'NewWaltDisneyUi-8YdA';
+}
+
+a{
+    text-decoration:none;
+}
+.exit1 {
+    width: 13vw;
+    height: 8vh;
+    background-color: gray;
+    position: absolute;
+    border-collapse: collapse;
+    border-radius: 3vw;
+    left: 41vw;
+    top: 77vh;
+    opacity: 0.8;
+    color: pink;
+    font-size: 2vw;
+    font-family: 'NewWaltDisneyUi-8YdA';
+    text-align: center;
+    box-shadow: 0 0 25px;
+}
+.exit1:hover {
+    color: gray;
+    background-color: pink;
+}
+    
+

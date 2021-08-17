@@ -1,0 +1,340 @@
+﻿<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{3EC0F401-27C5-4CAC-A075-46D9FD4FB584}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WebApplication1</RootNamespace>
+    <AssemblyName>WebApplication1</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <Use64BitIISExpress />
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="game.css" />
+    <Content Include="game.html" />
+    <Content Include="game.js" />
+    <Content Include="games.css" />
+    <Content Include="games.html" />
+    <Content Include="Home.css" />
+    <Content Include="Home.html" />
+    <Content Include="Web.config" />
+    <Content Include="לוגו1חדש.PNG" />
+    <Content Include="מיקי1.PNG" />
+    <Content Include="מיקי2.PNG" />
+    <Content Include="מיקי\200 %282%29.gif" />
+    <Content Include="מיקי\200w %281%29.gif" />
+    <Content Include="מיקי\200w %282%29.gif" />
+    <Content Include="מיקי\200w %282%29.png" />
+    <Content Include="מיקי\200w %283%29.gif" />
+    <Content Include="מיקי\200w %283%29.png" />
+    <Content Include="מיקי\200w %283%29~1.png" />
+    <Content Include="מיקי\200w.png" />
+    <Content Include="מיקי\2020-04-06.gif" />
+    <Content Include="מיקי\2020-04-16 %281%29.png" />
+    <Content Include="מיקי\2020-04-22 %282%29.gif" />
+    <Content Include="מיקי\2020-04-22.gif" />
+    <Content Include="מיקי\2020-04-23 %282%29.gif" />
+    <Content Include="מיקי\2020-04-23 %283%29~1.png" />
+    <Content Include="מיקי\2020-04-23 %283%29~2.png" />
+    <Content Include="מיקי\2020-04-23 %285%29.gif" />
+    <Content Include="מיקי\2020-04-23 %285%29.png" />
+    <Content Include="מיקי\2020-04-23.gif" />
+    <Content Include="מיקי\2020-04-23.png" />
+    <Content Include="מיקי\2020-04-25 %281%29.gif" />
+    <Content Include="מיקי\2020-04-25.gif" />
+    <Content Include="מיקי\2020-04-25.png" />
+    <Content Include="מיקי\2020-04-26.gif" />
+    <Content Include="מיקי\2020-04-26.png" />
+    <Content Include="מיקי\2020-04-30 %2810%29.gif" />
+    <Content Include="מיקי\2020-04-30 %2810%29.png" />
+    <Content Include="מיקי\2020-04-30 %2811%29.gif" />
+    <Content Include="מיקי\2020-04-30 %2812%29.gif" />
+    <Content Include="מיקי\2020-04-30 %2813%29.gif" />
+    <Content Include="מיקי\2020-04-30 %2814%29.gif" />
+    <Content Include="מיקי\2020-04-30 %2815%29.gif" />
+    <Content Include="מיקי\2020-04-30 %2816%29.gif" />
+    <Content Include="מיקי\2020-04-30 %2818%29.gif" />
+    <Content Include="מיקי\2020-04-30 %2820%29.gif" />
+    <Content Include="מיקי\2020-04-30 %2821%29.gif" />
+    <Content Include="מיקי\2020-04-30 %2822%29.gif" />
+    <Content Include="מיקי\2020-04-30 %2823%29.gif" />
+    <Content Include="מיקי\2020-04-30 %2824%29.gif" />
+    <Content Include="מיקי\2020-04-30 %2825%29 %281%29.gif" />
+    <Content Include="מיקי\2020-04-30 %2825%29.gif" />
+    <Content Include="מיקי\2020-04-30 %2826%29.gif" />
+    <Content Include="מיקי\2020-04-30 %2827%29.gif" />
+    <Content Include="מיקי\2020-04-30 %2828%29.gif" />
+    <Content Include="מיקי\2020-04-30 %2829%29 %281%29.gif" />
+    <Content Include="מיקי\2020-04-30 %2829%29 %281%29.png" />
+    <Content Include="מיקי\2020-04-30 %2829%29.gif" />
+    <Content Include="מיקי\2020-04-30 %2830%29.gif" />
+    <Content Include="מיקי\2020-04-30 %2831%29.gif" />
+    <Content Include="מיקי\2020-04-30 %2832%29.gif" />
+    <Content Include="מיקי\2020-04-30 %2833%29.gif" />
+    <Content Include="מיקי\2020-04-30 %2834%29.gif" />
+    <Content Include="מיקי\2020-04-30 %2835%29.gif" />
+    <Content Include="מיקי\2020-04-30 %2837%29.gif" />
+    <Content Include="מיקי\2020-04-30 %285%29.gif" />
+    <Content Include="מיקי\2020-04-30 %286%29.gif" />
+    <Content Include="מיקי\2020-04-30 %287%29.gif" />
+    <Content Include="מיקי\2020-05-01 %282%29.gif" />
+    <Content Include="מיקי\2020-05-01.gif" />
+    <Content Include="מיקי\2020-05-02 %281%29.gif" />
+    <Content Include="מיקי\2020-05-02 %281%29.png" />
+    <Content Include="מיקי\2020-05-02 %282%29.gif" />
+    <Content Include="מיקי\2020-05-02 %282%29.jpg" />
+    <Content Include="מיקי\2020-05-02 %282%29.png" />
+    <Content Include="מיקי\2020-05-02 %283%29.gif" />
+    <Content Include="מיקי\2020-05-02 %283%29.png" />
+    <Content Include="מיקי\2020-05-02 %284%29.gif" />
+    <Content Include="מיקי\2020-05-02 %285%29.gif" />
+    <Content Include="מיקי\2020-05-03 %281%29.gif" />
+    <Content Include="מיקי\2020-05-03 %282%29.gif" />
+    <Content Include="מיקי\2020-05-05 %282%29.gif" />
+    <Content Include="מיקי\img_1.png" />
+    <Content Include="מיקי\img_2.png" />
+    <Content Include="מיקי\unnamed %281%29.gif" />
+    <Content Include="מיקי\unnamed %281%29.png" />
+    <Content Include="מיקי\unnamed %282%29.gif" />
+    <Content Include="מיקי\unnamed %282%29.png" />
+    <Content Include="מיקי\unnamed %282%29~2.png" />
+    <Content Include="מיקי\unnamed %283%29.gif" />
+    <Content Include="מיקי\unnamed %283%29.png" />
+    <Content Include="מיקי\unnamed %284%29.gif" />
+    <Content Include="מיקי\unnamed %284%29.png" />
+    <Content Include="מיקי\unnamed %285%29.gif" />
+    <Content Include="מיקי\unnamed %286%29.gif" />
+    <Content Include="מיקי\unnamed %287%29.gif" />
+    <Content Include="מיקי\unnamed %288%29.gif" />
+    <Content Include="מיקי\unnamed %289%29.gif" />
+    <Content Include="מיקי\unnamed.gif" />
+    <Content Include="מיקי\unnamed~1.png" />
+    <Content Include="מיקי\unnamed~2.png" />
+    <Content Include="מיקי\הילה גזור 1.png" />
+    <Content Include="מיקי\הילה גזור 2.png" />
+    <Content Include="מיקי\הילה גזור.png" />
+    <Content Include="מיקי\תיקיה חדשה\1111111111111111111 %282%29.PNG" />
+    <Content Include="מיקי\תיקיה חדשה\1111111111111111111 %283%29.PNG" />
+    <Content Include="מיקי\תיקיה חדשה\1111111111111111111 %284%29.PNG" />
+    <Content Include="מיקי\תיקיה חדשה\200 %282%29.png" />
+    <Content Include="מיקי\תיקיה חדשה\200w %281%29.png" />
+    <Content Include="מיקי\תיקיה חדשה\200w %281%29~1.png" />
+    <Content Include="מיקי\תיקיה חדשה\200w %283%29.png" />
+    <Content Include="מיקי\תיקיה חדשה\200w %283%29~2.png" />
+    <Content Include="מיקי\תיקיה חדשה\200w~1.png" />
+    <Content Include="מיקי\תיקיה חדשה\2020-04-06.png" />
+    <Content Include="מיקי\תיקיה חדשה\2020-04-16 %281%29~1.png" />
+    <Content Include="מיקי\תיקיה חדשה\2020-04-22 %282%29.png" />
+    <Content Include="מיקי\תיקיה חדשה\2020-04-22.png" />
+    <Content Include="מיקי\תיקיה חדשה\2020-04-23 %282%29.gif" />
+    <Content Include="מיקי\תיקיה חדשה\2020-04-23 %282%29.png" />
+    <Content Include="מיקי\תיקיה חדשה\2020-04-23 %283%29.png" />
+    <Content Include="מיקי\תיקיה חדשה\2020-04-25 %281%29.png" />
+    <Content Include="מיקי\תיקיה חדשה\2020-04-25 %282%29.gif" />
+    <Content Include="מיקי\תיקיה חדשה\2020-04-30 %2810%29.png" />
+    <Content Include="מיקי\תיקיה חדשה\2020-04-30 %2811%29.png" />
+    <Content Include="מיקי\תיקיה חדשה\2020-04-30 %2812%29.png" />
+    <Content Include="מיקי\תיקיה חדשה\2020-04-30 %2813%29.png" />
+    <Content Include="מיקי\תיקיה חדשה\2020-04-30 %2814%29.png" />
+    <Content Include="מיקי\תיקיה חדשה\2020-04-30 %2815%29.png" />
+    <Content Include="מיקי\תיקיה חדשה\2020-04-30 %2816%29.png" />
+    <Content Include="מיקי\תיקיה חדשה\2020-04-30 %2818%29.png" />
+    <Content Include="מיקי\תיקיה חדשה\2020-04-30 %2820%29.png" />
+    <Content Include="מיקי\תיקיה חדשה\2020-04-30 %2821%29.png" />
+    <Content Include="מיקי\תיקיה חדשה\2020-04-30 %2822%29.png" />
+    <Content Include="מיקי\תיקיה חדשה\2020-04-30 %2823%29.png" />
+    <Content Include="מיקי\תיקיה חדשה\2020-04-30 %2824%29.png" />
+    <Content Include="מיקי\תיקיה חדשה\2020-04-30 %2825%29 %281%29.png" />
+    <Content Include="מיקי\תיקיה חדשה\2020-04-30 %2825%29.png" />
+    <Content Include="מיקי\תיקיה חדשה\2020-04-30 %2826%29.png" />
+    <Content Include="מיקי\תיקיה חדשה\2020-04-30 %2827%29.png" />
+    <Content Include="מיקי\תיקיה חדשה\2020-04-30 %2828%29.png" />
+    <Content Include="מיקי\תיקיה חדשה\2020-04-30 %2830%29.png" />
+    <Content Include="מיקי\תיקיה חדשה\2020-04-30 %2831%29.png" />
+    <Content Include="מיקי\תיקיה חדשה\2020-04-30 %2832%29.png" />
+    <Content Include="מיקי\תיקיה חדשה\2020-04-30 %2833%29.png" />
+    <Content Include="מיקי\תיקיה חדשה\2020-04-30 %2834%29.png" />
+    <Content Include="מיקי\תיקיה חדשה\2020-04-30 %2835%29.png" />
+    <Content Include="מיקי\תיקיה חדשה\2020-04-30 %2837%29.png" />
+    <Content Include="מיקי\תיקיה חדשה\2020-04-30 %285%29.png" />
+    <Content Include="מיקי\תיקיה חדשה\2020-04-30 %286%29.png" />
+    <Content Include="מיקי\תיקיה חדשה\2020-04-30 %287%29.png" />
+    <Content Include="מיקי\תיקיה חדשה\2020-05-01 %282%29.png" />
+    <Content Include="מיקי\תיקיה חדשה\2020-05-01.png" />
+    <Content Include="מיקי\תיקיה חדשה\2020-05-02 %282%29.png" />
+    <Content Include="מיקי\תיקיה חדשה\2020-05-02 %284%29.png" />
+    <Content Include="מיקי\תיקיה חדשה\2020-05-03 %281%29.png" />
+    <Content Include="מיקי\תיקיה חדשה\2020-05-03 %282%29.png" />
+    <Content Include="מיקי\תיקיה חדשה\222222222222222222222 %282%29.PNG" />
+    <Content Include="מיקי\תיקיה חדשה\222222222222222222222 %283%29.PNG" />
+    <Content Include="מיקי\תיקיה חדשה\222222222222222222222.PNG" />
+    <Content Include="מיקי\תיקיה חדשה\unnamed %281%29.gif" />
+    <Content Include="מיקי\תיקיה חדשה\unnamed %281%29.png" />
+    <Content Include="מיקי\תיקיה חדשה\unnamed %282%29.gif" />
+    <Content Include="מיקי\תיקיה חדשה\unnamed %282%29.png" />
+    <Content Include="מיקי\תיקיה חדשה\unnamed %282%29~1.png" />
+    <Content Include="מיקי\תיקיה חדשה\unnamed %283%29.gif" />
+    <Content Include="מיקי\תיקיה חדשה\unnamed %283%29.png" />
+    <Content Include="מיקי\תיקיה חדשה\unnamed %284%29.png" />
+    <Content Include="מיקי\תיקיה חדשה\unnamed %285%29.png" />
+    <Content Include="מיקי\תיקיה חדשה\unnamed %286%29.png" />
+    <Content Include="מיקי\תיקיה חדשה\unnamed %287%29.png" />
+    <Content Include="מיקי\תיקיה חדשה\unnamed %288%29.png" />
+    <Content Include="מיקי\תיקיה חדשה\unnamed.png" />
+    <Content Include="מיקי\תיקיה חדשה\‏‏200 %282%29 - עותק.png" />
+    <Content Include="מיקי\תיקיה חדשה\‏‏2020-04-30 %2811%29 - עותק.png" />
+    <Content Include="מיקי\תיקיה חדשה\‏‏2020-04-30 %2818%29 - עותק.png" />
+    <Content Include="מיקי\תמונות למשחק\1.jpg" />
+    <Content Include="מיקי\תמונות למשחק\2.png" />
+    <Content Include="מיקי\תמונות למשחק\2020-04-23 %283%29.gif" />
+    <Content Include="מיקי\תמונות למשחק\2020-04-30 %2813%29.gif" />
+    <Content Include="מיקי\תמונות למשחק\2020-04-30 %2827%29.gif" />
+    <Content Include="מיקי\תמונות למשחק\2020-04-30 %2827%29~1.gif" />
+    <Content Include="מיקי\תמונות למשחק\222222222222222222222 %285%29.PNG" />
+    <Content Include="מיקי\תמונות למשחק\3.png" />
+    <Content Include="מיקי\תמונות למשחק\4.png" />
+    <Content Include="מיקי\תמונות למשחק\5.png" />
+    <Content Include="מיקי\תמונות למשחק\6.png" />
+    <Content Include="מיקי\תמונות למשחק\unnamed %289%29.gif" />
+    <Content Include="מיקי\תמונות למשחק\__unnamed %285%29 - עותק.png" />
+    <Content Include="מיקי\תמונות למשחק\אייקון מטבעות.PNG" />
+    <Content Include="מיקי\תמונות למשחק\דיסני12 %282%29.PNG" />
+    <Content Include="מיקי\תמונות למשחק\דיסני12.PNG" />
+    <Content Include="מיקי\תמונות למשחק\לב1.PNG" />
+    <Content Include="מיקי\תמונות למשחק\לוגו חדש.PNG" />
+    <Content Include="מיקי\תמונות למשחק\לוגו.PNG" />
+    <Content Include="מיקי\תמונות למשחק\לוגו1חדש %282%29.PNG" />
+    <Content Include="מיקי\תמונות למשחק\לוגו1חדש.PNG" />
+    <Content Include="מיקי\תמונות למשחק\רקע משחק מיקי מאוס.png" />
+    <Content Include="מיקי\תמונות למשחק\‏‏2 - עותק.png" />
+    <Content Include="מיקי\תמונות למשחק\‏‏unnamed %2810%29 - עותק.gif" />
+    <Content Include="מיקי\תמונות למשחק\‏‏unnamed %285%29 - עותק.png" />
+    <Content Include="מיקי\תמונות למשחק\‏‏רקע אפור %282%29.PNG" />
+    <Content Include="מיקי\תמונות למשחק\‏‏רקע אפור.PNG" />
+    <Content Include="מיקי\תמונות למשחק\‏‏‏‏2 - עותק - עותק.png" />
+    <Content Include="מיקי\תמונות למשחק\‏‏‏‏unnamed %285%29 - עותק - עותק.png" />
+    <Content Include="מיקי\תמונות למשחק\‏‏‏‏‏‏2 - עותק - עותק - עותק.png" />
+    <Content Include="מיקי\תמונות למשחק\‏‏‏‏‏‏‏‏2 - עותק - עותק - עותק - עותק %282%29.png" />
+    <Content Include="מיקי\תמונות למשחק\‏‏‏‏‏‏‏‏2 - עותק - עותק - עותק - עותק.png" />
+    <Content Include="מיקי\תמונות למשחק\‏‏‏‏‏‏‏‏‏‏2 - עותק - עותק - עותק - עותק - עותק.png" />
+    <Content Include="מיקי\‏‏2020-04-23 %285%29 - עותק.png" />
+    <Content Include="מיקי\‏‏2020-04-30 %2811%29 - עותק.gif" />
+    <Content Include="מיקי\‏‏2020-04-30 %2811%29 - עותק.jpg" />
+    <Content Include="מיקי\‏‏img_2 - עותק.png" />
+    <Content Include="מיקי\‏‏הילה גזור 1 - עותק.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <Content Include="מיקי\200w %281%29.webp" />
+    <Content Include="מיקי\תיקיה חדשה\2020-04-23 %282%29.rar" />
+    <Content Include="מיקי\font\M008016d.ttf" />
+    <Content Include="מיקי\font\NewWaltDisneyUi-8YdA.ttf" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="html\" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>50346</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:50346/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
